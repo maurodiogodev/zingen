@@ -36,6 +36,8 @@
     --fs-lg: 2rem;
     --fs-xl: 2.4rem;
     --fs-2xl: 4rem;
+
+    --px-lg: 2.4rem;
 }
 
 html {
@@ -86,5 +88,7 @@ ul[role='list'] {
         --fs-lg: 3.2rem;
         --fs-xl: 4.8rem;
         --fs-2xl: 6.4rem;
+
+        --px-lg: 3.2rem;
     }
 }
