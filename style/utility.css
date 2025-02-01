@@ -18,7 +18,7 @@
     display: none;
 }
 
-.even-colomns {
+.even-columns {
     display: grid;
     gap: 1.6rem;
 }
@@ -59,7 +59,7 @@
         display: initial;
     }
 
-    .even-colomns {
+    .even-columns {
         grid-auto-flow: column;
         grid-auto-columns: 1fr;
     }
