@@ -60,6 +60,8 @@ html {
 body {
     font-size: var(--fs-base);
     background-color: var(--bg-color);
+
+    overflow-x: hidden;
 }
 
 h1,
